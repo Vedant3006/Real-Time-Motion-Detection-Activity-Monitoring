@@ -1,0 +1,154 @@
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 19:39:02
+Session Duration: 28.22 seconds
+Motion Events: 52
+Frames With Motion: 670
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 19:51:31
+Session Duration: 28.90 seconds
+Motion Events: 68
+Frames With Motion: 411
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:30:32
+Session Duration: 45.21 seconds
+Motion Events: 102
+Frames With Motion: 611
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:32:44
+Session Duration: 35.88 seconds
+Motion Events: 103
+Frames With Motion: 629
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:41:18
+Session Duration: 76.63 seconds
+Motion Events: 207
+Frames With Motion: 1423
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:45:45
+Session Duration: 35.75 seconds
+Motion Events: 97
+Frames With Motion: 593
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:49:33
+Session Duration: 37.91 seconds
+Motion Events: 31
+Frames With Motion: 813
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:51:40
+Session Duration: 19.86 seconds
+Motion Events: 66
+Frames With Motion: 361
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:55:48
+Session Duration: 30.87 seconds
+Motion Events: 90
+Frames With Motion: 608
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 22:58:33
+Session Duration: 48.35 seconds
+Motion Events: 153
+Frames With Motion: 736
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:03:42
+Session Duration: 64.55 seconds
+Motion Events: 183
+Frames With Motion: 962
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:04:10
+Session Duration: 5.64 seconds
+Motion Events: 11
+Frames With Motion: 42
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:09:32
+Session Duration: 17.61 seconds
+Motion Events: 43
+Frames With Motion: 284
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:12:08
+Session Duration: 36.78 seconds
+Motion Events: 82
+Frames With Motion: 399
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:15:24
+Session Duration: 120.21 seconds
+Motion Events: 226
+Frames With Motion: 1550
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:22:46
+Session Duration: 41.04 seconds
+Motion Events: 115
+Frames With Motion: 638
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-15 23:29:29
+Session Duration: 55.00 seconds
+Motion Events: 106
+Frames With Motion: 772
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-16 18:14:53
+Session Duration: 50.09 seconds
+Motion Events: 248
+Frames With Motion: 475
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-16 18:17:52
+Session Duration: 155.54 seconds
+Motion Events: 276
+Frames With Motion: 2412
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-16 18:40:57
+Session Duration: 45.96 seconds
+Motion Events: 119
+Frames With Motion: 670
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-16 18:54:41
+Session Duration: 115.06 seconds
+Motion Events: 237
+Frames With Motion: 2064
+
+------------------------------------------
+Motion Detection Session
+Date and Time: 2026-09-16 22:29:17
+Session Duration: 282.38 seconds
+Motion Events: 1004
+Frames With Motion: 2467
