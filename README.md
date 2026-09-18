@@ -193,8 +193,6 @@ MotionDetectionProject/
 | `requirements.txt` | Contains required packages |
 | `README.md` | Project documentation |
 
-
-```markdown
 ## 10. Installation and Setup
 
 Before running the project, make sure Python is installed on the computer and a working webcam is available.
@@ -211,7 +209,7 @@ After cloning, move into the project folder:
 
 ```bash
 cd Real-Time-Motion-Detection-Activity-Monitoring
-```markdown
+```
 
 ### Step 2: Check Python
 
@@ -265,7 +263,6 @@ python main.py
 The webcam window will open and the real-time motion detection system will start processing the live video feed.
 
 To stop the application, keep the webcam window active and press the **Q** key.
-```
 ## 11. How to Run
 
 Open the project folder in Visual Studio Code.
