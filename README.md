@@ -211,7 +211,7 @@ After cloning, move into the project folder:
 
 ```bash
 cd Real-Time-Motion-Detection-Activity-Monitoring
-```
+```markdown
 
 ### Step 2: Check Python
 
